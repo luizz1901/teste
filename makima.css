@@ -1,0 +1,29 @@
+h2{
+    margin-left: 700px;
+    font-size: 28px;
+}
+
+h3{
+    margin-left: 690px;
+    font-size: 28px;
+}
+
+h4{
+    margin-left: 675px;
+    font-size: 28px;
+}
+
+h5{
+    margin-left: 690px;
+    font-size: 28px;
+}
+
+img{
+    border: 10px solid black;
+}
+
+
+body{
+    background-color: rgba(247, 57, 57, 0.897);
+}
+

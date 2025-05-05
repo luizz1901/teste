@@ -1,0 +1,34 @@
+h1{
+    font-size: 28px;
+    text-align: center;
+    margin-right: 190px;
+}
+
+h2{
+    text-align: center;
+    font-size: 28px;
+    margin-right: 190px;
+}
+
+
+
+
+img{
+    border: 10px solid black;
+}
+
+h3{
+    font-size: 28px;
+    text-align: center;
+    background-color: darkblue;
+}
+
+h4{
+    font-size: 28px;
+    text-align: center;
+    background-color: darkblue;
+}
+
+body{
+    background-color: cornflowerblue;
+}

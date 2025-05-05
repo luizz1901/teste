@@ -1,0 +1,55 @@
+img{
+    width: 600px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 400px;
+    border: 10px solid black;
+}
+
+p { color: black;
+    background-color: cadetblue;
+    font-size: 16px;
+}
+
+h1{
+    background-color: darkcyan;
+    color: black;
+    font-size: 40px;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+#tituloSecundario{ color: black;
+    background-color: darkcyan;
+    font-size: 24px;
+}
+
+#tituloPrincipal{
+    background-color: darkcyan;
+    color: black;
+    font-size: 40px;
+}
+
+#tituloTerciario{ color: black;
+    background-color: darkcyan;
+    font-size: 24px;
+}
+
+#tituloQuartenario{ color: black;
+    background-color: darkcyan;
+    font-size: 24px;
+}
+
+h5{
+    font-size: 24px;
+    color: black;
+    background-color: darkcyan;
+}
+
+h6{
+    font-size: 24px;
+    color: black;
+    background-color: darkcyan;
+}
